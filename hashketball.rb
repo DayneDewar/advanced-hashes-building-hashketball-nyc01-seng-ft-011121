@@ -2,10 +2,13 @@
 def game_hash
   hash = {}
   hash[:home] = {
-    :team_name = {},
-    :colors = {},
-    :players = {}
+    :team_name = "",
+    :colors = [],
+    :players = []
   }
-  hash[:away] = {}
-  
+  hash[:away] = {
+    :team_name = "",
+    :colors = [],
+    :players = []
+  }
 end
