@@ -7,7 +7,7 @@ def game_hash
     :players = []
   }
   hash[:away] = {
-    :team_name = "",
+    :team_name => "",
     :colors = [],
     :players = []
   }
