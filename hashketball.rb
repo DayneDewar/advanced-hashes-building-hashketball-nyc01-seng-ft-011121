@@ -11,4 +11,5 @@ def game_hash
     :colors => [],
     :players => []
   }
+  hash
 end
