@@ -18,8 +18,8 @@ def game_hash
     :players => [
       {player_name: "Jess Adrien", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       {player_name: "Bismack Biyombo", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
-      {player_name: "DeSagna ", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
-      {player_name:, number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
+      {player_name: "DeSagna Diop", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
+      {player_name: "", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       {player_name:, number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       ]
   }
