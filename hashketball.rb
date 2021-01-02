@@ -17,8 +17,8 @@ def game_hash
     :colors => ["Turquoise", "Purple"],
     :players => [
       {player_name: "Jess Adrien", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
-      {player_name: "Bismack Biyomo", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
-      {player_name:, number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
+      {player_name: "Bismack Biyombo", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
+      {player_name: "", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       {player_name:, number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       {player_name:, number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       ]
