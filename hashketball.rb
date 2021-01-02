@@ -18,7 +18,7 @@ def game_hash
     :players => [
       {player_name: "Jeff Adrien", number: 4, shoe: 18, points: 10, rebounds: 1, assists: 1, steals: 2, blocks: 7, slam_dunks: 2},
       {player_name: "Bismack Biyombo", number: 0, shoe: 16, points: 12, rebounds: 4, assists: 7, steals: 22, blocks: 15, slam_dunks: 10},
-      {player_name: "DeSagna Diop", number: 2, shoe: 14, points: 24, rebounds: 12, assists: 12, steals:, blocks:, slam_dunks:},
+      {player_name: "DeSagna Diop", number: 2, shoe: 14, points: 24, rebounds: 12, assists: 12, steals: 4, blocks: 5, slam_dunks: 5},
       {player_name: "Ben Gordon", number: 8, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       {player_name: "Kemba Walker", number: 33, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       ]
