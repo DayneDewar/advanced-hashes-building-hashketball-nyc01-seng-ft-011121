@@ -20,7 +20,7 @@ def game_hash
       {player_name: "Bismack Biyombo", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       {player_name: "DeSagna Diop", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       {player_name: "Ben Gordon", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
-      {player_name: "Kemba ", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
+      {player_name: "Kemba Walker", number:, shoe:, points:, rebounds:, assists:, steals:, blocks:, slam_dunks:},
       ]
   }
   hash
